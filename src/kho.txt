@@ -1,0 +1,7 @@
+sp002;Bánh mì;Thực phẩm;100;2000
+sp003;Xà lách;Rau;500;9000
+sp005;Sữa Vinmilk;Thức uống;15;30000
+sp006;Tôm sú;Hải sản;75;100000
+sp007;banh quy;asdfs;2;25000
+sp008;bánh bao;bánh ;15000;53
+﻿sp001;Táo;Trái cây;54;10000

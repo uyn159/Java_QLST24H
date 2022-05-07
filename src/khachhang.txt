@@ -1,0 +1,4 @@
+﻿kh002;Ng Thị Uyên;nữ;0977881566;20;04;06;Tphcm
+kh001;Thất Quang Triệu;nam;0512345678;21;04;05;Tphcm
+kh003;Bác Hang Seo;nam;0966551489;19;03;Cầu Giấy;Hà Nội
+kh004;Nguyễn Văn A;nam;0966551489;19;03;Cầu Giấy;Hà Nội

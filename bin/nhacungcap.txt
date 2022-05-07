@@ -1,0 +1,2 @@
+nv001;Nhữ văn chiến;nam;0123456789;25;tphcm
+nv002;Long lanh lấp lánh;nữ;0123587413;19;hcm
